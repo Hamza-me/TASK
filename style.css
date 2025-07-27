@@ -1,0 +1,92 @@
+a{
+    text-decoration: none;
+}
+.link{
+    color: rgb(0 , 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 85%;
+    bottom: 35px;
+    padding: 10px 20px;
+    background-color: whitesmoke;
+    border: 3px solid rgb(31, 31, 31);
+    border-radius: 5px;
+}
+.link:hover{
+    color: gray;
+}
+header {
+    background-color: rgb(31, 31, 31);    
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1 {
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(31, 31, 31);
+    margin-right: -4px;
+    color: white;
+}
+.h1 {
+    color: orangered;
+    text-transform: capitalize;
+}
+nav {
+    display: inline-block;
+    background-color: rgb(31, 31, 31);
+    max-width: 40%;
+    min-width: 100%;
+    border: 2px solid gray;
+    border-radius: 7px;
+    height: 80px;
+}
+ol .li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 15px;
+    position: relative;  
+    left: 25%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+}
+
+ol .li a{
+    color: rgba(223, 220, 220, 0.906);
+
+}
+
+ol .li a:hover{
+    color: orangered;
+}
+
+ol .li a:focus{
+    color: orangered;
+    text-decoration: underline;
+}
+
+ol li{
+    display: inline-block;
+    list-style: none;
+    margin: -2px;
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+}
+ol .lo{
+    display: inline-block;
+    list-style: none;
+    word-spacing: -2px;
+    color: rgba(223, 220, 220, 0.906);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: lowercase;
+}
+/* button{
+    display: inline-block;
+    height: 40px;
+    position: relative;
+    left: 85%;
+    bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */

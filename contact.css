@@ -1,0 +1,11 @@
+body {
+    background: radial-gradient( circle , beige 50% , rgb(154, 119, 22) 100%);
+}
+
+img {
+    width: 500px;
+    height: auto;
+    position: relative;
+    top: 50px;
+    left: 320px;
+}
